@@ -1,0 +1,10 @@
+import { Router } from 'express';
+import { listStocks, getStock, getHistory, refreshStock, marketSummary } from '../controllers/stockController.js';
+import { protect } from '../middleware/auth.js';
+const router = Router();
+router.get('/', listStocks);
+router.get('/summary', marketSummary);
+router.get('/:symbol/history', getHistory);
+router.get('/:symbol', getStock);
+router.post('/:symbol/refresh', protect, refreshStock);
+export default router;
