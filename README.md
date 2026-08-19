@@ -139,8 +139,9 @@ The backend includes Jest/Supertest coverage starters for authentication, JWT re
 <img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/c795d23b-8955-4e72-8df1-c8805d385df8" />
 <img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/c1c60cd7-de2a-4a85-a493-5077a68bc22f" />
 <img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/9eae455c-424d-426b-ad39-e6e7f709af1d" />
-
-![Uploading image.png…]()
+<img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/7708eaa4-f0e0-4685-b3dd-0d92268bbd68" />
+<img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/74f384af-5b7c-46fc-85ba-bdc0bc34f99b" />
+<img width="916" height="515" alt="image" src="https://github.com/user-attachments/assets/44653a75-30cd-4c31-858b-03bcfe7c32be" />
 
 
 
